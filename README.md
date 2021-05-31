@@ -1,7 +1,7 @@
 ## Hi there! How's it goin? :technologist: 👋
 
-My name is Diego Parente and if you're here, it means you should follow me! :bowtie: 
-Don't hesitate do tell me your impressions and how I should build this better, please!
+My name is Diego Parente and welcome to my repository! :bowtie: 
+Please, don't hesitate to tell me your impressions and how I should build this better!
 
 - 🔭 I’m currently working with IT Support, sysadmin and Monitoring :nerd_face:
 - 🌱 I’m currently learning NodeJS, Docker, ORM, CI/CD and Tests.
