@@ -18,4 +18,4 @@ My GitHub info:
 
 [![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diegosparente&layout=compact&theme=tokyonight)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=diegosparente&show_icons=true&theme=tokyonight)
+![github stats](https://github-readme-stats.vercel.app/api?username=diegosparente&show_icons=true&theme=tokyonight)]((https://github.com/diegosparente/github-readme-stats))
