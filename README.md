@@ -14,8 +14,8 @@ Você pode me encontre aqui:
 
 Minhas infomações referentes ao GitHub:
 
-[![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diegosparente&layout=compact&theme=tokyonight)
+![Diego's github stats](https://github-readme-stats.vercel.app/api?username=diegosparente&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=diegosparente&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegosparente&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/diegosparente/github-readme-stats)
 
 Gostaria de saber sua opinião de como estão as coisas por aqui! Será muito valioso ter o seu feedback! =)
