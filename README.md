@@ -3,7 +3,7 @@
 Sou formado em Sistemas de Informação e entusiasta das melhores tecnologias de desenvolvimento web.
 
 - 🔭 Atualmente estou trabalhando com suporte de TI, SysAdmin e monitoramento :nerd_face:
-- 🌱 Atualmente, estou aprendendo NodeJS, Docker, ORM, CI / CD e testes.
+- 🌱 Atualmente, estou aprendendo NodeJS, Docker, ORM, CI/CD e testes.
 
 Você pode me encontre aqui:
 
