@@ -1,4 +1,4 @@
-## Olá! Tudo bem? Eu sou Diego Parente :technologist: 👋
+## Olá! Tudo bem? Eu sou Diego Santos :technologist: 👋
 
 Sou formado em Sistemas de Informação e entusiasta das melhores tecnologias de desenvolvimento web.
 
