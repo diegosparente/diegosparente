@@ -4,7 +4,7 @@ Sou formado em Sistemas de Informação e entusiasta das melhores tecnologias de
 
 - 🔭 Atualmente estou trabalhando com suporte de TI, SysAdmin e monitoramento :nerd_face:
 - 🌱 Atualmente, estou aprendendo Ruby/Ruby On Rails e Docker
--  Esses são alguns dos assuntos que pretendo estudar em um futuro próximo: CI/CD e testes.
+-  :sparkles: Esses são alguns dos assuntos que pretendo estudar em um futuro próximo: CI/CD e testes.
 
 Você pode me encontre aqui:
 
