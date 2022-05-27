@@ -1,6 +1,6 @@
 ## Olá, eu sou Diego Parente. Prazer em te conhecer :technologist: 👋🏾
 
-Sou programador Back-end formado em Sistemas de Informação e entusiasta das melhores tecnologias de desenvolvimento web.
+Sou programador Back-end formado em Sistemas de Informação e entusiasta das melhores tecnologias de desenvolvimento web. (ツ) 
 
 Sobre mim:
 
