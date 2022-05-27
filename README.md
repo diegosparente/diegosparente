@@ -16,6 +16,6 @@ Você pode me encontrar aqui:
 Minhas infomações referentes ao GitHub:
 
 <div> 
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=diegosparente&show_icons=true&theme=gruvbox" /> 
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosparente&layout=compact&theme=gruvbox" /> 
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=diegosparente&show_icons=true&theme=gruvbox" /> 
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosparente&layout=compact&theme=gruvbox" /> 
 </div>
