@@ -14,7 +14,6 @@ Você pode me encontrar aqui:
 [![Github](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)](https://github.com/diegosparente)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diegosparente/)
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/diego.s.parente/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
 ##
 Tecnologias
