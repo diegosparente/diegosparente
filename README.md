@@ -1,10 +1,12 @@
-## Olá! Tudo bem? Eu sou Diego Parente :technologist: 👋
+## Olá, eu sou Diego Parente. Prazer em te conhecer :technologist: 👋🏾
 
-Sou formado em Sistemas de Informação e entusiasta das melhores tecnologias de desenvolvimento web.
+Sou programador Back-end formado em Sistemas de Informação e entusiasta das melhores tecnologias de desenvolvimento web.
 
-- 🔭 Atualmente estou trabalhando com suporte de TI :nerd_face:
-- 🌱 Estou aprendendo TypeScript
--  :sparkles: Esses são alguns dos assuntos que pretendo estudar em um futuro próximo: CI/CD e testes.
+Sobre mim:
+
+- 🔭 Atualmente estou trabalhando como analista suporte de TI :nerd_face:
+- 🌱 Tenho estudado TypeScript e NodeJS.
+-  :sparkles: Esses são alguns dos assuntos que pretendo estudar em um futuro próximo mais afundo: CI/CD e testes.
 
 Você pode me encontrar aqui:
 
