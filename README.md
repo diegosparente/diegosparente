@@ -6,7 +6,7 @@ Sobre mim:
 
 - 🔭 Atualmente estou trabalhando como analista suporte de TI :nerd_face:
 - 🌱 Tenho estudado TypeScript e NodeJS.
--  :sparkles: Esses são alguns dos assuntos que pretendo estudar em um futuro próximo mais afundo: CI/CD e testes.
+-  :sparkles: CI/CD e testes são assuntos que pretendo estudar futuramente de forma mais aprofundada.
 
 Você pode me encontrar aqui:
 
