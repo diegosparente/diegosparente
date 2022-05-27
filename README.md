@@ -22,6 +22,7 @@ Tecnologias
   <a href="https://nodejs.org/en/docs/"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /></a>
   <a href="https://docs.docker.com/"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
   <a href="https://cloud.google.com/training"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg" /></a>
+  <a href="https://www.php.net/docs.php"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></a>
 </div>
   
 ##
