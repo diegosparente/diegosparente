@@ -5,7 +5,7 @@ Sou desenvolvedor back-end formado em Sistemas de Informação, entusiasta das m
 Sobre mim:
 
 - 🔭 Atualmente estou trabalhando como analista suporte de TI :nerd_face:
-- 🌱 Tenho estudado TypeScript e NodeJS.
+- 🌱 Tenho estudado PHP e Laravel.
 - 🚀 CI/CD e testes são assuntos que pretendo estudar futuramente de forma mais aprofundada.
 
 Você pode me encontrar aqui:
