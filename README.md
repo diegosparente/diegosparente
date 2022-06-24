@@ -5,7 +5,7 @@ Sou desenvolvedor back-end formado em Sistemas de Informação, entusiasta das m
 Sobre mim:
 
 - 🔭 Atualmente estou trabalhando como analista suporte de TI :nerd_face:
-- 🌱 Tenho estudado PHP e Laravel.
+- 🌱 Tenho estudado PHP + Laravel, GIT e Ruby + Ruby On Rails.
 - 🚀 CI/CD e testes são assuntos que pretendo estudar futuramente de forma mais aprofundada.
 
 Você pode me encontrar aqui:
@@ -18,11 +18,12 @@ Você pode me encontrar aqui:
 ##
 Tecnologias
 <div style="display: inline_block"><br>
-  <a href="https://www.typescriptlang.org/docs/"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
-  <a href="https://nodejs.org/en/docs/"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /></a>
-  <a href="https://docs.docker.com/"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
-  <a href="https://cloud.google.com/training"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg" /></a>
-  <a href="https://www.php.net/docs.php"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></a>
+    <a href="https://www.php.net/docs.php"><img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></a>
+  <a href="https://www.ruby-leng.org/en/"><img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" /></a>
+  <a href="https://nodejs.org/en/docs/"><img align="center" height="50" width="60" src="https://github.com/diegosparente/diegosparente/blob/main/images/mariadb-logo-vertical_white.svg" /></a>        
+  <a href="https://docs.docker.com/"><img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
+  <a href="https://cloud.google.com/training"><img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg" /></a>
+<a href="https://git-scm.com/"><img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 </div>
   
 ##
