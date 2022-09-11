@@ -15,23 +15,3 @@ Você pode me encontrar aqui:
 [![Github](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)](https://github.com/diegosparente)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diegosparente/)
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/diego.s.parente/)
-
-##
-Tecnologias
-<div style="display: inline_block"><br>
-    <a href="https://www.php.net/docs.php"><img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></a>
-  <a href="https://www.ruby-leng.org/en/"><img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" /></a>
-  <a href="https://mariadb.org/documentation/"><img align="center" height="50" width="60" src="https://github.com/diegosparente/diegosparente/blob/main/images/mariadb-logo-vertical_white.svg" /></a>        
-  <a href="https://docs.docker.com/"><img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
-  <a href="https://cloud.google.com/training"><img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg" /></a>
-<a href="https://git-scm.com/"><img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-</div>
-  
-##
-
-Minhas infomações referentes ao GitHub:
-
-<div> 
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=diegosparente&show_icons=true&theme=gruvbox" /> 
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosparente&layout=compact&theme=gruvbox" /> 
-</div>
