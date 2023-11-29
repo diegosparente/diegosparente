@@ -6,7 +6,6 @@ Sobre mim:
 
 - 🔭 Atualmente estou trabalhando como analista suporte de TI :nerd_face:
 - 🌱 Tenho estudado PHP/Laravel e GIT
-- 💻 Conheço um pouco sobre o ecossistema Ruby/Ruby On Rails
 - 🚀 CI/CD e testes são assuntos que pretendo estudar futuramente de forma mais aprofundada.
 
 Você pode me encontrar aqui:
