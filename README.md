@@ -4,7 +4,7 @@ Sou desenvolvedor back-end formado em Sistemas de Informação, entusiasta das m
 
 Sobre mim:
 
-- 🔭 Atualmente estou trabalhando como analista suporte de TI :nerd_face:
+- 🔭 Atualmente estou trabalhando como analista de sistemas :nerd_face:
 - 🌱 Tenho estudado PHP/Laravel e GIT
 - 🚀 CI/CD e testes são assuntos que pretendo estudar futuramente de forma mais aprofundada.
 
