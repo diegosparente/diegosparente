@@ -22,8 +22,8 @@ Estou em busca de oportunidades para contribuir em projetos open-source e expand
 
 Você pode me encontrar e entrar em contato através das seguintes plataformas:
 
-[![Github](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)](https://github.com/diegosparente)
-[![X](https://img.shields.io/badge/-000?logo=x&logoColor=white)](https://x.com/diego_s_parente)
+<!--[![Github](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)](https://github.com/diegosparente)-->
+<!--[![X](https://img.shields.io/badge/-twwiter/x-000?logo=x&logoColor=white)](https://x.com/diego_s_parente)-->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diegosparente/)
 
 ## Estatísticas do GitHub
