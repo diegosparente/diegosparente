@@ -1,17 +1,17 @@
 ## Olá, eu sou Diego Parente. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
-Sou desenvolvedor back-end formado em Sistemas de Informação, entusiasta das melhores tecnologias de desenvolvimento web e sempre buscando novos desafios, aprendizado contínuo e troca de conhecimento. (ツ) 
+Sou desenvolvedor backend formado em Sistemas de Informação, entusiasta das melhores tecnologias de desenvolvimento web e sempre buscando novos desafios, aprendizado contínuo e troca de conhecimento. (ツ)
 
 Sobre mim:
 
-- 🔭 Atualmente estou trabalhando como Analista de Sistemas, mas focado em me tornar desenvolvedor back-end.
+- 🔭 Atualmente estou trabalhando como Analista de Sistemas, mas focado em me tornar desenvolvedor backend.
 - 🌱 Estou estudando **Laravel** e seu ecossistema, além de aprofundar meus conhecimentos em **PHP**.
-- 🚀 Tenho interesse em me aprofundar em **CI/CD**, **testes automatizados**, **Docker**, **servidores Linux** e **Jenkins**.
+- 🚀 Tenho interesse em me aprofundar em **CI/CD**, **testes automatizados**, **Docker** e **servidores Linux**.
 
 ## Habilidades Adicionais
 
 - Experiência com **servidores Linux** e **nginx**.
-- Familiaridade com **Docker** e **Jenkins**.
+- Familiaridade com **Docker** e ferramentas  de CI/CD como **GitHub Actions**.
 - Boa comunicação, facilidade em aprender e muita disposição.
 
 ## Contribuições
